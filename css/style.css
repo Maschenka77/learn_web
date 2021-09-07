@@ -17,3 +17,9 @@ h1 {
 
 h3 {
     color: darkslategrey}
+
+.meme:hover {
+
+    border-radius: 100%;
+
+}
